@@ -8,7 +8,7 @@ Naive Bayes sử dụng các định lý để tính xác suất dựa trên nh�
 ![alt](https://github.com/tramit-work/Machine-Learning/blob/main/LAB2_MACHINELEARNING/Photos/Photo4.jpg)
 ![alt](https://github.com/tramit-work/Machine-Learning/blob/main/LAB2_MACHINELEARNING/Photos/Photo5.jpg)
 ![alt](https://github.com/tramit-work/Machine-Learning/blob/main/LAB2_MACHINELEARNING/Photos/Photo6.jpg)
-![alt](https://github.com/tramit-work/Machine-Learning/blob/main/LAB2_MACHINELEARNING/Photos/Photo7.jpg_
+![alt](https://github.com/tramit-work/Machine-Learning/blob/main/LAB2_MACHINELEARNING/Photos/Photo7.jpg)
 ![alt](https://github.com/tramit-work/Machine-Learning/blob/main/LAB2_MACHINELEARNING/Photos/Photo2.jpg)
 ## 4. Đối với các bài toán có sự so sánh 
 ![alt](https://github.com/tramit-work/Machine-Learning/blob/main/LAB2_MACHINELEARNING/Photos/Photo3.jpg)
